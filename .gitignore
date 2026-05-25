@@ -1,0 +1,11 @@
+arcmind/backend/.env
+arcmind/frontend/.env.local
+arcmind/contracts/cache/
+arcmind/contracts/broadcast/
+arcmind/contracts/lib/
+arcmind/frontend/.next/
+arcmind/frontend/node_modules/
+arcmind/node_modules/
+lib/
+.env
+.env.local

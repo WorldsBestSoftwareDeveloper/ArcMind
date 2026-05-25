@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+dist/
+cache/
+broadcast/
+contracts/lib/
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
