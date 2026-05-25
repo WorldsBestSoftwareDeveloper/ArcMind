@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
   webpack: (config) => {
     config.resolve.alias = {
       ...config.resolve.alias,
+      "@": path.resolve(process.cwd()),
       "@react-native-async-storage/async-storage": false,
       "pino-pretty": false
     };
