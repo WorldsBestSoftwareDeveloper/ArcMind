@@ -6,6 +6,6 @@ arcmind/contracts/lib/
 arcmind/frontend/.next/
 arcmind/frontend/node_modules/
 arcmind/node_modules/
-lib/
+/lib/
 .env
 .env.local
