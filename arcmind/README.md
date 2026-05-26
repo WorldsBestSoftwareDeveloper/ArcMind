@@ -53,8 +53,8 @@ arcmind/
 
 ## Live Demo
 
-- **Live URL**: [Insert your deployed link here]
-- **Video Demo**: [Insert Loom/YouTube link here — max 3 mins]
+- **Live URL**: https://thearc-mind.vercel.app/
+- **Video URL**: https://youtu.be/NjaFaQ6g-Bk?si=oFHmgWbZa0G9y82K
 
 ## Local Setup
 
