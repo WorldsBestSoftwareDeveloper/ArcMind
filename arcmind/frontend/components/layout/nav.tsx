@@ -5,7 +5,7 @@ import { BrandMark } from "@/components/brand-mark";
 const links = [
   { href: "/tvl", label: "TVL" },
   { href: "https://docs.arc.io/arc/references/connect-to-arc", label: "Docs" },
-  { href: "https://faucet-v2.circle.com/", label: "Faucet" }
+  { href: "https://faucet.circle.com/", label: "Faucet" }
 ];
 
 export function Nav() {
